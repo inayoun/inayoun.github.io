@@ -8,8 +8,6 @@ last_name: Youn
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  With a background in neuroscience and computer science, I am drawn to the space where the human brain and technology meet. I’m especially interested in human–computer interaction, brain–computer interfaces, and wellness technologies. My goal is to design products and interfaces that respect the mind while expanding what people can do with it.
-footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -191,6 +189,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/teaching.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
