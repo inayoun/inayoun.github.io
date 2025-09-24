@@ -13,12 +13,24 @@
   pdf={Yoo2022.pdf}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@article{YOO2022107079,
+preview={cmpb.jpg},
+title = {Residual one-dimensional convolutional neural network for neuromuscular disorder classification from needle electromyography signals with explainability},
+journal = {Computer Methods and Programs in Biomedicine},
+volume = {226},
+pages = {107079},
+year = {2022},
+issn = {0169-2607},
+doi = {https://doi.org/10.1016/j.cmpb.2022.107079},
+url = {https://www.sciencedirect.com/science/article/pii/S0169260722004606},
+author = {Jaesung Yoo and Ilhan Yoo and Ina Youn and Sung-Min Kim and Ri Yu and Kwangsoo Kim and Keewon Kim and Seung-Bo Lee},
+keywords = {Needle Electromyography, Neuromuscular Disorder, Electrophysiologic Diagnosis, Deep Learning, Convolutional Neural Network, Feature Visualization},
+abstract = {Background and Objective
+Neuromuscular disorders are diseases that damage our ability to control body movements. Needle electromyography (nEMG) is often used to diagnose neuromuscular disorders, which is an electrophysiological test measuring electric signals generated from a muscle using an invasive needle. Characteristics of nEMG signals are manually analyzed by an electromyographer to diagnose the types of neuromuscular disorders, and this process is highly dependent on the subjective experience of the electromyographer. Contemporary computer-aided methods utilized deep learning image classification models to classify nEMG signals which are not optimized for classifying signals. Additionally, model explainability was not addressed which is crucial in medical applications. This study aims to improve prediction accuracy, inference time, and explain model predictions in nEMG neuromuscular disorder classification.
+Methods
+This study introduces the nEMGNet, a one-dimensional convolutional neural network with residual connections designed to extract features from raw signals with higher accuracy and faster speed compared to image classification models from previous works. Next, the divide-and-vote (DiVote) algorithm was designed to integrate each subject's heterogeneous nEMG signal data structures and to utilize muscle subtype information for higher accuracy. Finally, feature visualization was used to identify the causality of nEMGNet diagnosis predictions, to ensure that nEMGNet made predictions on valid features, not artifacts.
+Results
+The proposed method was tested using 376 nEMG signals measured from 57 subjects between June 2015 to July 2020 in Seoul National University Hospital. The results from the three-class classification task demonstrated that nEMGNet's prediction accuracy of nEMG signal segments was 62.35%, and the subject diagnosis prediction accuracy of nEMGNet and the DiVote algorithm was 83.69 %, over 5-fold cross-validation. nEMGNet outperformed all models from previous works on nEMG diagnosis classification, and heuristic analysis of feature visualization results indicate that nEMGNet learned relevant nEMG signal characteristics.
+Conclusions
+This study introduced nEMGNet and DiVote algorithm which demonstrated fast and accurate performance in predicting neuromuscular disorders based on nEMG signals. The proposed method may be applied in medicine to support real-time electrophysiologic diagnosis.}
 }
