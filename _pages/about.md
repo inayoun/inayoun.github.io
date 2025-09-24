@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 With a background in neuroscience and computer science, I am drawn to the space where the human brain and technology meet. I’m especially interested in human–computer interaction, brain–computer interfaces, and wellness technologies. My goal is to design products and interfaces that respect the mind while expanding what people can do with it.
-footer_text: > Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
