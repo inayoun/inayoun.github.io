@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ina Youn</title>
+      <link>https://inayoun.github.io</link>
+      <description>Last 10 notes on Ina Youn</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Projects</title>
+    <link>https://inayoun.github.io/projects/</link>
+    <guid>https://inayoun.github.io/projects/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:23:28 GMT</pubDate>
+  </item><item>
+    <title>workshop</title>
+    <link>https://inayoun.github.io/tags/workshop</link>
+    <guid>https://inayoun.github.io/tags/workshop</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:23:28 GMT</pubDate>
+  </item><item>
+    <title>data-visualization</title>
+    <link>https://inayoun.github.io/tags/data-visualization</link>
+    <guid>https://inayoun.github.io/tags/data-visualization</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:23:28 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://inayoun.github.io/tags/</link>
+    <guid>https://inayoun.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:23:28 GMT</pubDate>
+  </item><item>
+    <title>InterFace InterSignal</title>
+    <link>https://inayoun.github.io/projects/interface-intersignal</link>
+    <guid>https://inayoun.github.io/projects/interface-intersignal</guid>
+    <description><![CDATA[ A hands-on workshop exploring brain sensing through live EEG visualizations and creative interface experiments. ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:08:20 GMT</pubDate>
+  </item><item>
+    <title>Ina Youn</title>
+    <link>https://inayoun.github.io/</link>
+    <guid>https://inayoun.github.io/</guid>
+    <description><![CDATA[ A portfolio of building, crafting, and thinking by Ina Youn. ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:08:20 GMT</pubDate>
+  </item><item>
+    <title>Somatic Synthesis</title>
+    <link>https://inayoun.github.io/projects/somatic-synthesis</link>
+    <guid>https://inayoun.github.io/projects/somatic-synthesis</guid>
+    <description><![CDATA[ An exploration of biosignals as an interconnected, symbiotic system. ]]></description>
+    <pubDate>Fri, 20 Nov 2026 04:08:20 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
